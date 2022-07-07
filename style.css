@@ -8,13 +8,14 @@ h1{
 
 .first_section{
     text-align: center;
-    padding: 70px;
+    padding: 80px;
     color: white;
     
 }
 #first_section_para1{
     margin-right: 100px;
     margin-left: 100px;
+    margin-bottom: 50px;
 }
 .top_banner{
     background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(asset/image/d1.jpg);
@@ -22,4 +23,16 @@ h1{
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+}
+
+.link_Button{
+    text-decoration: none;
+    background-color: orangered;
+    color: beige;
+    font-weight: 700;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 10px 15px;
+    border-radius: 5px;
+
 }
