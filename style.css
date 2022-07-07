@@ -1,0 +1,25 @@
+body{
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 60px;
+}
+
+.first_section{
+    text-align: center;
+    padding: 70px;
+    color: white;
+    
+}
+#first_section_para1{
+    margin-right: 100px;
+    margin-left: 100px;
+}
+.top_banner{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)), url(asset/image/d1.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
